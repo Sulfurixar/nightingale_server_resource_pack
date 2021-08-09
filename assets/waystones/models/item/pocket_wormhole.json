@@ -1,0 +1,88 @@
+{
+ "parent": "item/generated",
+ "textures": {
+	"layer0": "waystones:item/pocket_wormhole"
+ },
+ "overrides": [
+	{
+		"predicate": {"custom_model_data":1}, 
+		"model": "waystones:item/custom/pocket_wormhole_model_skb"
+	},
+	{
+		"predicate": {"custom_model_data":2}, 
+		"model": "waystones:item/custom/pocket_wormhole_model_gapple"
+	},
+	{
+		"predicate": {"custom_model_data":3}, 
+		"model": "waystones:item/custom/pocket_wormhole_model_napple"
+	},
+	{
+		"predicate": {"custom_model_data":4}, 
+		"model": "waystones:item/custom/rxcha/stone_edition/pocket_wormhole_model_skb"
+	},
+	{
+		"predicate": {"custom_model_data":5}, 
+		"model": "waystones:item/custom/rxcha/stone_edition/pocket_wormhole_model_gapple"
+	},
+	{
+		"predicate": {"custom_model_data":6}, 
+		"model": "waystones:item/custom/rxcha/stone_edition/pocket_wormhole_model_napple"
+	},
+	{
+		"predicate": {"custom_model_data":7}, 
+		"model": "waystones:item/custom/rxcha/rose_quartz/pocket_wormhole_model_skb"
+	},
+	{
+		"predicate": {"custom_model_data":8}, 
+		"model": "waystones:item/custom/rxcha/rose_quartz/pocket_wormhole_model_gapple"
+	},
+	{
+		"predicate": {"custom_model_data":9}, 
+		"model": "waystones:item/custom/rxcha/rose_quartz/pocket_wormhole_model_napple"
+	},
+	{
+		"predicate": {"custom_model_data":10}, 
+		"model": "waystones:item/custom/rxcha/smoky/pocket_wormhole_model_skb"
+	},
+	{
+		"predicate": {"custom_model_data":11}, 
+		"model": "waystones:item/custom/rxcha/smoky/pocket_wormhole_model_gapple"
+	},
+	{
+		"predicate": {"custom_model_data":12}, 
+		"model": "waystones:item/custom/rxcha/smoky/pocket_wormhole_model_napple"
+	},
+	{
+		"predicate": {"custom_model_data":13}, 
+		"model": "waystones:item/custom/rxcha/charred_quartz/pocket_wormhole_model_skb"
+	},
+	{
+		"predicate": {"custom_model_data":14}, 
+		"model": "waystones:item/custom/rxcha/charred_quartz/pocket_wormhole_model_gapple"
+	},
+	{
+		"predicate": {"custom_model_data":15}, 
+		"model": "waystones:item/custom/rxcha/charred_quartz/pocket_wormhole_model_napple"
+	},
+	{
+		"predicate": {"custom_model_data": 409}, 
+		"model": "waystones:item/custom/rxcha/smoky/pocket_wormhole_model_napple"
+	},
+	{
+		"predicate": {"custom_model_data": 420}, 
+		"model": "waystones:item/custom/pocket_wormhole_model_napple"
+	},
+	{
+		"predicate": {"custom_model_data": 421}, 
+		"model": "waystones:item/custom/rxcha/charred_quartz/pocket_wormhole_model_skb"
+	},
+	{
+		"predicate": {"custom_model_data": 826}, 
+		"model": "waystones:item/custom/rxcha/rose_quartz/pocket_wormhole_model_gapple"
+	},
+	{
+		"predicate": {"custom_model_data": 916}, 
+		"model": "waystones:item/custom/pocket_wormhole_model_916"
+	}
+ ]
+}
