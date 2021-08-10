@@ -9,4 +9,4 @@ Currently, this resource pack has been tested with and has a requirement of Fabr
 | Zener (Discord: Ely#2926)   | UV Maps and Modelling, initial texture maps |
 | rxcha (Discord: rxcha#2271) | Texturing                                   |
 
-> Download link in ZIP format: [Download](https://github.com/Sulfurixar/nightingale_server_resource_pack/releases/download/0.9.3/Nightinggale.Server.Pack.0.9.3.zip "Resource Pack Download Link")
+> Download link in ZIP format: [Download](https://github.com/Sulfurixar/nightingale_server_resource_pack/releases/download/0.9.4/Z-Type.Comms.0.9.4.zip "Resource Pack Download Link")
