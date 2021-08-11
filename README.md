@@ -1,6 +1,6 @@
-# Nightinggale server resource pack
+# Nightingale server resource pack
 
-A Minecraft resource pack dedicated to Nightinggale.
+A Minecraft resource pack dedicated to Nightingale.
 The purpose of this resource pack started from wanting to implement a model of a communication device inspired by Dream SMP's communication device.
 Currently, this resource pack has been tested with and has a requirement of Fabric Waystones Mod for 1.16.5.
 
