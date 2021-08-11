@@ -1,12 +1,13 @@
 {
-	"credit": "Created by Zener.",
+	"credit": "Created by Zener. Additional textures by rxcha.",
+	"gui_light": "front",
 	"textures": {
-		"0": "waystones:item/zcommback",
-		"1": "waystones:item/zcommfrontbp",
-		"2": "waystones:item/zcommfronttp",
-		"3": "waystones:item/zcommfrontlp",
-		"4": "waystones:item/zcommfrontrp",
-		"5": "waystones:item/zcommscreen",
+		"0": "waystones:item/custom/rxcha/garbo/zcommback",
+		"1": "waystones:item/custom/rxcha/garbo/zcommfrontbp",
+		"2": "waystones:item/custom/rxcha/garbo/zcommfronttp",
+		"3": "waystones:item/custom/rxcha/garbo/zcommfrontlp",
+		"4": "waystones:item/custom/rxcha/garbo/zcommfrontrp",
+		"5": "waystones:item/custom/rxcha/garbo/zcommscreen",
 		"6": "waystones:item/akeyboard/se/0",
 		"7": "waystones:item/akeyboard/se/1",
 		"8": "waystones:item/akeyboard/se/2",
@@ -53,20 +54,20 @@
 		"49": "waystones:item/akeyboard/se/shift",
 		"50": "waystones:item/akeyboard/se/space",
 		"51": "waystones:item/akeyboard/se/backspace",
-		"52": "waystones:item/padpanel",
-		"53": "waystones:item/padleft",
-		"54": "waystones:item/padright",
-		"55": "waystones:item/padup",
-		"56": "waystones:item/paddown",
-		"57": "waystones:item/rod",
-		"58": "waystones:item/tip",
-		"59": "waystones:item/volumebutton",
-		"60": "waystones:item/fingerprintreader",
-		"61": "waystones:item/charmholder",
-		"62": "waystones:item/usb",
-		"63": "waystones:item/custom/napple",
+		"52": "waystones:item/custom/rxcha/garbo/padpanel",
+		"53": "waystones:item/custom/rxcha/garbo/padleft",
+		"54": "waystones:item/custom/rxcha/garbo/padright",
+		"55": "waystones:item/custom/rxcha/garbo/padup",
+		"56": "waystones:item/custom/rxcha/garbo/paddown",
+		"57": "waystones:item/custom/rxcha/garbo/rod",
+		"58": "waystones:item/custom/rxcha/garbo/tip",
+		"59": "waystones:item/custom/rxcha/garbo/volumebutton",
+		"60": "waystones:item/custom/rxcha/garbo/fingerprintreader",
+		"61": "waystones:item/custom/rxcha/garbo/charmholder",
+		"62": "waystones:item/custom/rxcha/garbo/usb",
+		"63": "waystones:item/custom/dapple",
 		"64": "waystones:item/camera",
-		"particle": "waystones:item/custom/napple"
+		"particle": "waystones:item/custom/dapple"
 	},
 	"elements": [
 		{
@@ -1245,5 +1246,5 @@
 			"origin": [8, 8, 8],
 			"color": 0,
 			"children": [77]
-		}, 78, 79, 80]
+		}, 78, 79]
 }

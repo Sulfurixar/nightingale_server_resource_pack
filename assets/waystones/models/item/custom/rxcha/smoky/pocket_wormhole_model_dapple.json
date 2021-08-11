@@ -65,9 +65,9 @@
 		"60": "waystones:item/custom/rxcha/smoky/fingerprintreader",
 		"61": "waystones:item/custom/rxcha/smoky/charmholder",
 		"62": "waystones:item/custom/rxcha/smoky/usb",
-		"63": "waystones:item/custom/napple",
+		"63": "waystones:item/custom/dapple",
 		"64": "waystones:item/camera",
-		"particle": "waystones:item/custom/napple"
+		"particle": "waystones:item/custom/dapple"
 	},
 	"elements": [
 		{

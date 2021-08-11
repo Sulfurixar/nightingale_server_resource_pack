@@ -1,13 +1,12 @@
 {
-	"credit": "Created by Zener. Additional textures by rxcha.",
-	"gui_light": "front",
+	"credit": "Created by Zener.",
 	"textures": {
-		"0": "waystones:item/custom/rxcha/stone_edition/zcommback",
-		"1": "waystones:item/custom/rxcha/stone_edition/zcommfrontbp",
-		"2": "waystones:item/custom/rxcha/stone_edition/zcommfronttp",
-		"3": "waystones:item/custom/rxcha/stone_edition/zcommfrontlp",
-		"4": "waystones:item/custom/rxcha/stone_edition/zcommfrontrp",
-		"5": "waystones:item/custom/rxcha/stone_edition/zcommscreen",
+		"0": "waystones:item/zcommback",
+		"1": "waystones:item/zcommfrontbp",
+		"2": "waystones:item/zcommfronttp",
+		"3": "waystones:item/zcommfrontlp",
+		"4": "waystones:item/zcommfrontrp",
+		"5": "waystones:item/zcommscreen",
 		"6": "waystones:item/akeyboard/se/0",
 		"7": "waystones:item/akeyboard/se/1",
 		"8": "waystones:item/akeyboard/se/2",
@@ -59,15 +58,15 @@
 		"54": "waystones:item/padright",
 		"55": "waystones:item/padup",
 		"56": "waystones:item/paddown",
-		"57": "waystones:item/custom/rxcha/stone_edition/rod",
-		"58": "waystones:item/custom/rxcha/stone_edition/tip",
-		"59": "waystones:item/custom/rxcha/stone_edition/volumebutton",
-		"60": "waystones:item/custom/rxcha/stone_edition/fingerprintreader",
-		"61": "waystones:item/custom/rxcha/stone_edition/charmholder",
-		"62": "waystones:item/custom/rxcha/stone_edition/usb",
-		"63": "waystones:item/custom/napple",
+		"57": "waystones:item/rod",
+		"58": "waystones:item/tip",
+		"59": "waystones:item/volumebutton",
+		"60": "waystones:item/fingerprintreader",
+		"61": "waystones:item/charmholder",
+		"62": "waystones:item/usb",
+		"63": "waystones:item/custom/dapple",
 		"64": "waystones:item/camera",
-		"particle": "waystones:item/custom/napple"
+		"particle": "waystones:item/custom/dapple"
 	},
 	"elements": [
 		{
@@ -1246,5 +1245,5 @@
 			"origin": [8, 8, 8],
 			"color": 0,
 			"children": [77]
-		}, 78, 79]
+		}, 78, 79, 80]
 }
