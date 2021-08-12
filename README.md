@@ -10,4 +10,4 @@ Currently, this resource pack has been tested with and has a requirement of Fabr
 | rxcha (Discord: rxcha#2271)               | Texturing                                   |
 | SnowBlizzard (Discord: SnowBlizzard#0825) | Texturing                                   |
 
-> Download link in ZIP format: [Download](https://github.com/Sulfurixar/nightingale_server_resource_pack/releases/download/0.9.9/Z-Type.Comms.0.9.9.zip "Resource Pack Download Link")
+> Download link in ZIP format: [Download](https://github.com/Sulfurixar/nightingale_server_resource_pack/releases/download/1.0.0/Z-Type.Comms.1.0.0.zip "Resource Pack Download Link")

@@ -66,16 +66,8 @@
 	},
 	{
 		"predicate": {"custom_model_data":16}, 
-		"model": "waystones:item/custom/rxcha/garbo/pocket_wormhole_model_skb"
-	},
-	{
-		"predicate": {"custom_model_data":17}, 
-		"model": "waystones:item/custom/rxcha/garbo/pocket_wormhole_model_gapple"
-	},
-	{
-		"predicate": {"custom_model_data":18}, 
-		"model": "waystones:item/custom/rxcha/garbo/pocket_wormhole_model_dapple"
-	},
+		"model": "waystones:item/custom/rxcha/garbo/pocket_wormhole_model"
+	}
 	{
 		"predicate": {"custom_model_data":19}, 
 		"model": "waystones:item/custom/snowblizzard/pocket_wormhole_model_skb"
