@@ -98,7 +98,7 @@
 	},
 	{
 		"predicate": {"custom_model_data": 826}, 
-		"model": "waystones:item/custom/rxcha/lonexia/pocket_wormhole_model"
+		"model": "waystones:item/custom/rxcha/lonexia/pocket_wormhole_model_dapple"
 	},
 	{
 		"predicate": {"custom_model_data": 916}, 
@@ -107,6 +107,10 @@
 	{
 		"predicate": {"custom_model_data": 929}, 
 		"model": "waystones:item/custom/snowblizzard/pocket_wormhole_model_skb"
+	},
+	{
+		"predicate": {"custom_model_data": 1000}, 
+		"model": "waystones:item/custom/company/pocket_wormhole_model_dapple"
 	}
  ]
 }
