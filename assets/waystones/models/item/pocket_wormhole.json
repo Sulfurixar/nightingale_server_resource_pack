@@ -81,6 +81,10 @@
 		"model": "waystones:item/custom/snowblizzard/pocket_wormhole_model_skb"
 	},
 	{
+		"predicate": {"custom_model_data":333}, 
+		"model": "waystones:item/custom/rxcha/omnii/pocket_wormhole_model"
+	},
+	{
 		"predicate": {"custom_model_data": 409}, 
 		"model": "waystones:item/custom/rxcha/smoky/pocket_wormhole_model_dapple"
 	},
