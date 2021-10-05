@@ -7,7 +7,8 @@ Currently, this resource pack has been tested with and has a requirement of Fabr
 | Contributors                              | Resource                                    |
 |:----------------------------------------- |:------------------------------------------- |
 | Zener (Discord: Ely#2926)                 | UV Maps and Modelling, initial texture maps |
-| rxcha (Discord: rxcha#2271)               | Texturing                                   |
+| rxcha (Discord: rxcha#2271)               | Texturing and UV Maps                       |
 | SnowBlizzard (Discord: SnowBlizzard#0825) | Texturing                                   |
+| Dark	(Discord: DarkShadowAG#6914)		| Texturing, UV Maps, Modelling				  |
 
-> Download link in ZIP format: [Download](https://github.com/Sulfurixar/nightingale_server_resource_pack/releases/download/1.0.0/Z-Type.Comms.1.0.0.zip "Resource Pack Download Link")
+> Download link in ZIP format: [Download](https://github.com/Sulfurixar/nightingale_server_resource_pack/releases/download/1.0.1/Z-Type.Comms.1.0.1.zip "Resource Pack Download Link")

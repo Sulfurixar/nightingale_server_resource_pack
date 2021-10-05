@@ -1,0 +1,30 @@
+{
+	"animation": {
+		"frametime": 1,
+		"frames": [
+			{"index": 0, "time": 768},
+			{"index": 20, "time": 4},
+			{"index": 0, "time": 4},
+			{"index": 20, "time": 4},
+			{"index": 0, "time": 4},
+			{"index": 20, "time": 4},
+			{"index": 0, "time": 4},
+			{"index": 20, "time": 4},
+			{"index": 0, "time": 4},
+			{"index": 20, "time": 4},
+			{"index": 0, "time": 4},
+			{"index": 20, "time": 4},
+			{"index": 0, "time": 4},
+			{"index": 20, "time": 4},
+			{"index": 0, "time": 4},
+			{"index": 20, "time": 4},
+			{"index": 0, "time": 4},
+			{"index": 20, "time": 4},
+			{"index": 0, "time": 4},
+			{"index": 20, "time": 4},
+			{"index": 0, "time": 100},
+			{"index": 20, "time": 4},
+			{"index": 0, "time": 12}
+		]
+	}
+}

@@ -67,7 +67,11 @@
 	{
 		"predicate": {"custom_model_data":16}, 
 		"model": "waystones:item/custom/rxcha/garbo/pocket_wormhole_model"
-	}
+	},
+	{
+		"predicate": {"custom_model_data":17}, 
+		"model": "waystones:item/custom/dark/gilded_pocket_wormhole_model_gapple"
+	},
 	{
 		"predicate": {"custom_model_data":19}, 
 		"model": "waystones:item/custom/snowblizzard/pocket_wormhole_model_skb"
@@ -94,7 +98,7 @@
 	},
 	{
 		"predicate": {"custom_model_data": 916}, 
-		"model": "waystones:item/custom/pocket_wormhole_model_916"
+		"model": "waystones:item/custom/zener/pocket_wormhole_model_916"
 	},
 	{
 		"predicate": {"custom_model_data": 929}, 
